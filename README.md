@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Engineer🚀 thriving in web application development from coding to deployment and monitoring. With expertise in full-stack development, end-to-end DevOps tools, and AWS, I bring a comprehensive skill set to any project. Previously, I worked at Infosys as a Data Protection and vCenter Administrator for 2.5 years, honing my technical skills and problem-solving abilities. Always excited to tackle new challenges and drive innovative solutions! 🌟</p>
+<p align="left">I'm a Full Stack Engineer🚀 thriving in web application development from coding to deployment and monitoring. With expertise in full-stack development, end-to-end DevOps tools, and AWS, I bring a comprehensive skill set to any project. Previously, I worked at Infosys as a Backup and Associate Infrastructure Engineer for 2.5 years, honing my technical skills and problem-solving abilities. Always excited to tackle new challenges and drive innovative solutions! 🌟</p>
 
 ###
 
