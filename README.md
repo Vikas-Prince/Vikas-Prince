@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">I'm a Full Stack Engineer🚀 thriving in web application development from coding to deployment and monitoring. With expertise in full-stack development, end-to-end DevOps tools, and AWS, I bring a comprehensive skill set to any project. Previously, I worked at Infosys as a Backup and Associate Infrastructure Engineer for 2.5 years, honing my technical skills and problem-solving abilities. Always excited to tackle new challenges and drive innovative solutions! 🌟</p>
+<p align="left">
+👋 Hi there! I'm a DevOps Engineer with 3.5+ years of hands-on experience in automating, scaling, and securing infrastructure. I specialize in CI/CD pipelines, Infrastructure as Code (IaC), Kubernetes orchestration, and AWS cloud deployments.
+
+🚀 I enjoy building resilient systems using tools like Terraform, Jenkins, Docker, and Ansible—while enabling faster delivery through GitOps workflows and proactive monitoring solutions.
+
+💻 While DevOps is my core focus, I also have experience in full-stack development using the MERN stack, which helps me bridge the gap between development and operations.
+
+🔧 I'm passionate about open source, infrastructure automation, and driving efficiency through well-architected DevOps practices.
+
+📫 Let’s connect and collaborate on cloud-native, automated, and scalable solutions!
+</p>
 
 ###
 
