@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-👋 HI’m a passionate **Cloud DevOps Engineer** with over 3.5 years of hands-on experience in automating, scaling, and securing infrastructure across **AWS** and **Azure** environments.
+👋 HI’m a passionate Cloud DevOps Engineer with over 3.5+ years of hands-on experience in automating, scaling, and securing infrastructure across AWS and Azure environments.
 
 - 🛠️ Specializing in **Infrastructure as Code**, **CI/CD automation**, and **Kubernetes orchestration**
 - ☁️ Experienced in **AWS (VPC, EKS, EC2, IAM, S3)** and **Azure (AKS, Key Vault, Monitor, DevOps)**
