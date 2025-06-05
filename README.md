@@ -3,15 +3,20 @@
 ###
 
 <p align="left">
-👋 Hi there! I'm a DevOps Engineer with 3.5+ years of hands-on experience in automating, scaling, and securing infrastructure. I specialize in CI/CD pipelines, Infrastructure as Code (IaC), Kubernetes orchestration, and AWS cloud deployments.
+👋 HI’m a passionate **Cloud DevOps Engineer** with over 3.5 years of hands-on experience in automating, scaling, and securing infrastructure across **AWS** and **Azure** environments.
 
-🚀 I enjoy building resilient systems using tools like Terraform, Jenkins, Docker, and Ansible—while enabling faster delivery through GitOps workflows and proactive monitoring solutions.
+- 🛠️ Specializing in **Infrastructure as Code**, **CI/CD automation**, and **Kubernetes orchestration**
+- ☁️ Experienced in **AWS (VPC, EKS, EC2, IAM, S3)** and **Azure (AKS, Key Vault, Monitor, DevOps)**
+- ⚙️ Built CI/CD pipelines using **Jenkins** and **Azure DevOps Pipelines**, integrating tools like **SonarQube**, **Trivy**, and **Nexus**
+- 🚀 Implementing **GitOps** with **ArgoCD** and managing multi-cluster strategies including **Blue-Green** and **Canary** deployments
+- 📊 Focused on **observability** and **monitoring** using **Prometheus**, **Grafana**, and **AlertManager**
+- 🔒 Strong advocate for secure, repeatable, and scalable deployments using **Terraform**, **Ansible**, and **containerization**
 
-💻 While DevOps is my core focus, I also have experience in full-stack development using the MERN stack, which helps me bridge the gap between development and operations.
+---
 
-🔧 I'm passionate about open source, infrastructure automation, and driving efficiency through well-architected DevOps practices.
+📌 I’m continuously learning, building, and contributing to cloud-native solutions that drive efficiency, reliability, and innovation.
 
-📫 Let’s connect and collaborate on cloud-native, automated, and scalable solutions!
+📫 Feel free to explore my repositories or connect for collaboration.
 </p>
 
 ###
